@@ -1,7 +1,7 @@
 {
   "AWSEBDockerrunVersion": "1",
   "Image": {
-    "Name": "vikas277/stu-7:latest",
+    "Name": "x24138312/health-3:latest",
     "Update": "true"
   },
   "Ports": [
